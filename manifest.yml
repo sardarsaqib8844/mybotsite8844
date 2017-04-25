@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: au-syd.mybluemix.net
+  name: mybotsite8844
+  host: mybotsite8844
+  disk_quota: 1024M
